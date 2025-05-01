@@ -13,6 +13,6 @@ I enjoy building real-world projects, learning modern development practices, and
 
 ---
 
-🔗 [Check out more on my GitHub](https://github.com/your-username)
+🔗 [Check out more on my GitHub](https://github.com/daedalus812)
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* 💡
