@@ -1,4 +1,4 @@
-# 👨‍💻 Daedalus
+# 👨‍💻 Lorenzo
 
 🎓 Computer Engineering Student 
 🚀 Passionate about software development, algorithms, and open-source  
